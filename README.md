@@ -14,14 +14,14 @@ New Uris for this repos
 -----------------------
 
 For webview, replace
-https://github.com/mbasaglia/<repo> with
-https://gitlab.com/mattia.basaglia/<repo>
+https://github.com/mbasaglia/Ambidextrous-Mouse with
+https://gitlab.com/mattia.basaglia/Ambidextrous-Mouse
 
 For SSH remotes replace
-`git@github.com:mbasaglia/<repo>.git` with
-`git@gitlab.com:mattia.basaglia/<repo>.git`
+`git@github.com:mbasaglia/Ambidextrous-Mouse.git` with
+`git@gitlab.com:mattia.basaglia/Ambidextrous-Mouse.git`
 
 For HTTPS remotes replace
-`https://github.com/mbasaglia/<repo>.git` with
-`https://gitlab.com/mattia.basaglia/<repo>.git`
+`https://github.com/mbasaglia/Ambidextrous-Mouse.git` with
+`https://gitlab.com/mattia.basaglia/Ambidextrous-Mouse.git`
 
